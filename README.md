@@ -1,32 +1,41 @@
-###Hello everyone, Im Alexandre, someones callS BIGTOST, others call me Alex
+# llo everyone, Im Alexandre, someones callS BIGTOST, others call me Alex</H2>
 
--Im a young guy actuali in a University,
--🔭 I'm not working, just studing on University
--🌱 I’m currently learning C#
--📫 You can tak with me in:
--     the Discord:Alex_2#8737, but don't forget to said that you came from GITHUB
--     On my emails- Alcardoso18m@gmail.com
-- 😄 Pronouns: I don't care about,  call me as you prefer
+<h3>
+Im a young guy actuali in a University,
+
+🔭 I'm not working, just studing on University
+
+🌱 I’m currently learning C#
+
+📫 You can tak with me in:
+<h4>	
+     the Discord:Alex_2#8737, but don't forget to said that you came from GITHUB
+	On e-mail:
+</h4>
+
+😄 Pronouns: I don't care about,  call me as you prefer
+</h3>
 
 <!--<div>
        <a href="https://github.com/BIGTOST">
-       <img height="100em" href="https">-->
+       <img height="100em" href="https">
+-->
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height="180en"src="https://github-readme-stats.vercel.app/api?username-BIGTOST&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
-  <img height="180en"src="https://github-readme-stats.vercel.app/api/top-langs/?username-BIGTOST layout-compact&langs_count-16&theme-dracula"/>
+  <img height="180en"src="https://github-readme-stats.vercel.app/api?username-BIGTOST2&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+  <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username-BIGTOST2&layout-compact&langs_count-16&theme-dracula"/>
 </div>
 
-
-       
--⚡ Fun fact: 
--    I love learning about:
--                       💻technology    
--                       🧮Math
--                       🧪Cience
--                       📸Photography
--                       🌍The world
--                       🎮and Games
+<h3>⚡ Fun fact:</h3>
+<h4>
+	I love learning about:
+		💻technology    
+		🧮Math
+		🧪Cience
+		📸Photography
+		🌍The world
+		🎮and Games
+</h4>
 
 <!--
 **BIGTOST/BIGTOST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
