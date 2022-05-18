@@ -1,6 +1,6 @@
--### Hi there 👋
+### Hi there 👋
 
--##Im Alexandre, someones callS BIGTOST, others call me Alex
+##Im Alexandre, someones callS BIGTOST, others call me Alex
 
 -Im a young guy actuali in a University, 
 -🌱 I’m currently learning  c#
