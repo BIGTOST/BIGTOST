@@ -1,13 +1,15 @@
-### Hi there 👋
-
--Im Alexandre, someones callS BIGTOST, others call me Alex
+##Hello everyone, Im Alexandre, someones callS BIGTOST, others call me Alex
 
 -Im a young guy actuali in a University, 
--🌱 I’m currently learning  c#
+-🌱 I’m currently learning C#
 -📫 You can tak with me in:
 -     the Discord:Alex_2#8737, but don't forget to said that you came from GITHUB
 -     On my emails- Alcardoso18m@gmail.com
 
+<div>
+       <a href="https://github.com/BIGTOST">
+       
+</div>
 -😄 Pronouns:
 -      I don't care about 
 -      call me as you prefer
