@@ -8,12 +8,11 @@ Im a young guy actuali in a University,
 🌱 I’m currently learning C#
 
 📫 You can tak with me in:
-<h4>	
-     the Discord:Alex_2#8737, but don't forget to said that you came from GITHUB
-	On e-mail:
-</h4>
+	<h4>	
+	     the Discord:Alex_2#8737, but don't forget to said that you came from GITHUB
+		On e-mail:
+	</h4>
 
-😄 Pronouns: I don't care about,  call me as you prefer
 </h3>
 
 <!--<div>
