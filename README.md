@@ -4,7 +4,7 @@
 
 📍 Currently living in Viseu, Portugal.
 
-🎓 Studying at [Escola Superior de Tecnologias e Gestão de Viseu (ESTGV)](http://www.di.estgv.ipv.pt/Dep/di/web/), pursuing a degree in **Tecnologias e Design de Multimédia**.
+🎓 Studying at [Escola Superior de Tecnologias e Gestão de Viseu (ESTGV)](http://www.di.estgv.ipv.pt/Dep/di/web/?opt=MTE4LjYxLjUyLjU1Lg==), pursuing a degree in **Tecnologias e Design de Multimédia**.
 
 ## 🔧 Technologies & Skills
 
