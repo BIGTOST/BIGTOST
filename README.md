@@ -23,7 +23,7 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/4lexandre-card0s0/)
-- [alcardoso18m@gmail.com]
+- alcardoso18m@gmail.com
 
 ## 💬 Get in Touch
 
