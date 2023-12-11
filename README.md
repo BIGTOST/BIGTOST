@@ -1,48 +1,28 @@
-# Hello everyone, Im Alexandre, someones callS BIGTOST, others call me Alex</H2>
+# Alexandre Cardoso
 
-<h3>
-Im a young guy actuali in a University,
+👋 Hi, I'm Alexandre Cardoso, a passionate backend developer and multimedia enthusiast.
 
-🔭 I'm not working, just studing on University
+📍 Currently living in Viseu, Portugal.
 
-🌱 I’m currently learning C#
+🎓 Studying at [Escola Superior de Tecnologias e Gestão de Viseu (ESTGV)](https://www.ipv.pt/esgtv/), pursuing a degree in **Tecnologias e Design de Multimédia**.
 
-📫 You can tak with me in:
-	<h4>	
-	     the Discord:Alex_2#8737, but don't forget to said that you came from GITHUB
-		On e-mail:
-	</h4>
+## 🔧 Technologies & Skills
 
-</h3>
+- **Backend Development:** Node.js, Express, JavaScript.
+- **Programming Languages:** JavaScript, Python, C#, HTML, CSS.
+- **Database:** SQL (PostgreSQL), NoSQL (MongoDB).
+- **Mobile Development:** Learning Flutter and Dart.
+- **Multimedia:** Video and image editing.
 
-<div>
-  <a href="https://github.com/BIGTOST">
-  <img height="100em" href="https">
-  <a href="https://beacons.ai/rafaballerini">
-  <!--<img height="180en"src="https://github-readme-stats.vercel.app/api?username-BIGTOST2&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
-  <img height="180"src="https://github-readme-stats.vercel.app/api/top-langs/?username-BIGTOST2&layout-compact&langs_count-16&theme-dracula"/>-->
-</div>
+## 🌱 Currently Learning
 
-<h3>⚡ Fun fact:</h3>
-<h4>
-	I love learning about:
-		💻technology    
-		🧮Math
-		🧪Cience
-		📸Photography
-		🌍The world
-		🎮and Games
-</h4>
+- Exploring Flutter and Dart for mobile app development.
 
-<!--
-**BIGTOST/BIGTOST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect with Me
 
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/4lexandre-card0s0/)
+- [alcardoso18m@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+## 💬 Get in Touch
+
+Feel free to reach out if you want to discuss technology, development, or multimedia. Open to collaboration and new opportunities.
