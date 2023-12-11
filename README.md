@@ -4,11 +4,13 @@
 
 📍 Currently living in Viseu, Portugal.
 
-🎓 Studying at [Escola Superior de Tecnologias e Gestão de Viseu (ESTGV)](https://www.ipv.pt/esgtv/), pursuing a degree in **Tecnologias e Design de Multimédia**.
+🎓 Studying at [Escola Superior de Tecnologias e Gestão de Viseu (ESTGV)](http://www.di.estgv.ipv.pt/Dep/di/web/), pursuing a degree in **Tecnologias e Design de Multimédia**.
 
 ## 🔧 Technologies & Skills
 
 - **Backend Development:** Node.js, Express, JavaScript.
+- **Frontend Development:** React.
+- **HTTP Client:** Axios.
 - **Programming Languages:** JavaScript, Python, C#, HTML, CSS.
 - **Database:** SQL (PostgreSQL), NoSQL (MongoDB).
 - **Mobile Development:** Learning Flutter and Dart.
