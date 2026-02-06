@@ -1,10 +1,8 @@
 # Alexandre Cardoso
 
-👋 Hi, I'm Alexandre Cardoso, a passionate backend developer and multimedia enthusiast.
+👋 Hi, I'm Alexandre Cardoso, a passionate programmer, multimedia enthusiast.
 
 📍 Currently living in Viseu, Portugal.
-
-🎓 Studying at [Escola Superior de Tecnologias e Gestão de Viseu (ESTGV)](http://www.di.estgv.ipv.pt/Dep/di/web/?opt=MTE4LjYxLjUyLjU1Lg==), pursuing a degree in **Tecnologias e Design de Multimédia**.
 
 ## 🔧 Technologies & Skills
 
@@ -18,7 +16,7 @@
 
 ## 🌱 Currently Learning
 
-- Exploring Flutter and Dart for mobile app development.
+- Currently being tortured with the C language, but having alot of fun programing
 
 ## 📫 Connect with Me
 
